@@ -14,3 +14,6 @@ C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\ElevenNote\Eleven
 C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.csproj.CopyComplete
 C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.dll
 C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.pdb
+C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\ElevenNote\ElevenNote.Models\bin\Debug\ElevenNote.Data.dll
+C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\ElevenNote\ElevenNote.Models\bin\Debug\ElevenNote.Data.pdb
+C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\ElevenNote\ElevenNote.Models\bin\Debug\ElevenNote.Data.dll.config

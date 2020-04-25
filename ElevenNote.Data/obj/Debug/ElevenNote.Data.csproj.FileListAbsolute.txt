@@ -33,3 +33,6 @@ C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\ElevenNote\Eleven
 C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.CopyComplete
 C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.dll
 C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.pdb
+C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.InitialCreate.resources
+C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.GenerateResource.cache
+C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.categories.resources

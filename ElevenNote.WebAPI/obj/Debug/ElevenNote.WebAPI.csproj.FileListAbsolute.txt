@@ -123,3 +123,5 @@ C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\ElevenNote\Eleven
 C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\ElevenNote\ElevenNote.WebAPI\obj\Debug\ElevenNote.WebAPI.csproj.CopyComplete
 C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\ElevenNote\ElevenNote.WebAPI\obj\Debug\ElevenNote.WebAPI.dll
 C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\ElevenNote\ElevenNote.WebAPI\obj\Debug\ElevenNote.WebAPI.pdb
+C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\ElevenNote\ElevenNote.WebAPI\bin\Swashbuckle.Core.dll
+C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\ElevenNote\ElevenNote.WebAPI\bin\WebActivatorEx.dll
